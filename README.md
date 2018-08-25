@@ -1,2 +1,2 @@
-# lxasqjc.github.io
+# Chen Jin
 MyWebpage
