@@ -13,7 +13,7 @@ An up to date list of publications can be found on my [Google Scholar](https://s
   </div>
 
   <div style="flex:2.5;">
-    <b style="font-size: 130%;">Equivariant Neural Rendering</b><br>
+    <b style="font-size: 130%;">TEST123---Equivariant Neural Rendering</b><br>
 
     <i><b>E. Dupont</b>, M. A. Bautista, A. Colburn, A. Sankar, C. Guestrin, J. Susskind, Q. Shan</i><br>
 
