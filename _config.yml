@@ -44,14 +44,14 @@ paginate: 5 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: emidup # jekyll-seo-tag > Owners twitter username
-author: EmilienDupont # jekyll-seo-tag > default author
+  username: Jinchen027 # jekyll-seo-tag > Owners twitter username
+author: ChenJin # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: Emilien Dupont # jekyll-seo-tag > real name
+  name: Chen Jin # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/emidup
-    - https://www.linkedin.com/in/emiliendupont
-    - https://github.com/EmilienDupont
+    - https://twitter.com/Jinchen027
+    - https://www.linkedin.com/in/chen-jin-33287593/
+    - https://github.com/lxasqjc
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -82,13 +82,13 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Emilien Dupont" # Site name or title, also used in jekyll-seo-tag
+title: "Chen Jin" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/whale-emoji.png" # Site logo, also used in jekyll-seo-tag
 description: "Machine Learning" # Site description and default description, also used in jekyll-seo-tag
-url: "https://emiliendupont.github.io" # Site url, also used in jekyll-seo-tag
+url: "https://lxasqjc.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/EmilienDupont/emiliendupont.github.io"
-email: "emilien.dupont@stats.ox.ac.uk"
+repo: "https://github.com/lxasqjc/lxasqjc.github.io"
+email: "chen.jin@ucl.ac.uk"
 disqus: "emiliendupont" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 google_analytics: 'UA-109900176-1'
 # google_analytics_anonymize_ip: ''
@@ -107,18 +107,18 @@ navigation_header:
   url: /resume/
 - title: Publications
   url: /publications/
-- title: Blog
-  url: /blog/
-- title: Visualizations
-  url: https://observablehq.com/@emiliendupont
+# - title: Blog
+  # url: /blog/
+# - title: Visualizations
+  # url: https://observablehq.com/@emiliendupont
 
 navigation_footer:
-- title: Emilien Dupont
-  url: https://emiliendupont.github.io
+- title: Chen Jin
+  url: https://lxasqjc.github.io
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/emidup
-  LinkedIn: https://www.linkedin.com/in/emiliendupont
-  GitHub: https://github.com/EmilienDupont
-  link: https://emiliendupont.github.io
+  Twitter: https://twitter.com/Jinchen027
+  LinkedIn: https://www.linkedin.com/in/chen-jin-33287593/
+  GitHub: https://github.com/lxasqjc
+  link: https://lxasqjc.github.io
   RSS: /feed.xml

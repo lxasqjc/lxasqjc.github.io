@@ -1,0 +1,17 @@
+{
+  "lang": "en-GB",
+  "name": "Chen Jin",
+  "short_name": "ChenJin",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  
+    "icons": [
+      
+        {
+          "src": "/assets/logos/whale-emoji.png",
+          "sizes": "160x160"
+        }
+      
+    ],"start_url": "/",
+  "display": "standalone"
+}
