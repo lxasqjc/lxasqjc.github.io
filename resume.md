@@ -3,7 +3,7 @@ title: Resume
 layout: page
 ---
 
-For more details, you can download the pdf version of my resume [{% include icon.html id="pdf" title="pdf" %}here](https://github.com/EmilienDupont/emiliendupont.github.io/raw/master/emilien_resume.pdf) (updated June 2020).
+For more details, you can download the pdf version of my resume [{% include icon.html id="pdf" title="pdf" %}here](https://github.com/lxasqjc/lxasqjc.github.io/raw/master/CV_CHEN_JIN.pdf) (updated Nov 2020).
 
 ## Education 🎓
 
@@ -11,17 +11,17 @@ For more details, you can download the pdf version of my resume [{% include icon
 <div style="display:flex;">
 
   <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}/imgs/resume-icons/oxford.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+    <img src="{{ site.url }}/imgs/resume-icons/HWU.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
   <div style="flex:4;">
     <p style="margin:0px">
-      <b style="font-size: 130%;">University of Oxford</b>
+      <b style="font-size: 130%;">Heriot-Watt University</b>
       <span style="float:right; color:#7a7a7a;">2018 - 2021</span>
     </p>
-    PhD Machine Learning<br>
+    PhD Computational Geoscience<br>
     <p style="color:#7a7a7a">
-      Supervised by Yee Whye Teh and Arnaud Doucet
+      
     </p>
   </div>
 
@@ -32,17 +32,17 @@ For more details, you can download the pdf version of my resume [{% include icon
 <div style="display:flex;">
 
   <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}/imgs/resume-icons/stanford.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+    <img src="{{ site.url }}/imgs/resume-icons/HWU.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
   <div style="flex:4;">
     <p style="margin:0px">
-      <b style="font-size: 130%;">Stanford University</b>
+      <b style="font-size: 130%;">Heriot-Watt University</b>
       <span style="float:right; color:#7a7a7a;">2014 - 2016</span>
     </p>
-    MS Computational Mathematics<br>
+    MSc Petroleum Engineering<br>
     <p style="color:#7a7a7a">
-      GPA: 4.02
+      
     </p>
   </div>
 
@@ -53,17 +53,17 @@ For more details, you can download the pdf version of my resume [{% include icon
 <div style="display:flex;">
 
   <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}/imgs/resume-icons/imperial.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+    <img src="{{ site.url }}/imgs/resume-icons/CUP.jpg" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
   <div style="flex:4;">
     <p style="margin:0px">
-      <b style="font-size: 130%;">Imperial College London</b>
+      <b style="font-size: 130%;">China University of Petroleum</b>
       <span style="float:right; color:#7a7a7a;">2010 - 2014</span>
     </p>
-    BSc Theoretical Physics<br>
+    BSc Oil and Gas Engineering<br>
     <p style="color:#7a7a7a">
-      Rank: 1/206 students, Grade: 87.2%
+      
     </p>
   </div>
 
@@ -72,107 +72,66 @@ For more details, you can download the pdf version of my resume [{% include icon
 
 ## Experience 👨‍💼
 
-<!-- Apple Part Time-->
+<!-- University College London-->
 <div style="display:flex;">
 
   <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}/imgs/resume-icons/apple.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+    <img src="{{ site.url }}/imgs/resume-icons/UCL.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
   <div style="flex:4;">
     <p style="margin:0px">
-      <b style="font-size: 130%;">Apple</b>
-      <span style="float:right; color:#7a7a7a;">Nov 2019 - June 2020</span>
+      <b style="font-size: 130%;">University College London</b>
+      <span style="float:right; color:#7a7a7a;">Mar 2019 - Present</span>
     </p>
-    Part Time Research Intern<br>
+    Research Associate<br>
     <p style="color:#7a7a7a">
-      Part time research on neural rendering during PhD with collaborators at Apple
+      Develop deep learning model for histopathology image analysis and multiple scale-modality mapping for Histology-MRI project
     </p>
   </div>
 
 </div>
 
-<!-- Apple Internship-->
+<!-- Heriot-Watt University-->
 <div style="display:flex;">
 
   <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}/imgs/resume-icons/apple.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+    <img src="{{ site.url }}/imgs/resume-icons/HWU.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
   <div style="flex:4;">
     <p style="margin:0px">
-      <b style="font-size: 130%;">Apple</b>
-      <span style="float:right; color:#7a7a7a;">June 2019 - Aug 2019</span>
+      <b style="font-size: 130%;">Heriot-Watt University</b>
+      <span style="float:right; color:#7a7a7a;">Nov 2017 - Nov 2018</span>
     </p>
-    Research Intern<br>
+    Research Associate<br>
     <p style="color:#7a7a7a">
-      Research on Neural Rendering with Qi Shan
+      3D images modelling and reconstruction for mineral at nano-scale
     </p>
   </div>
 
 </div>
 
-<!-- STIC -->
+<!-- CNR -->
 <div style="display:flex;">
 
   <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}/imgs/resume-icons/stic.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+    <img src="{{ site.url }}/imgs/resume-icons/CNR.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
   <div style="flex:4;">
     <p style="margin:0px">
-      <b style="font-size: 130%;">Schlumberger STIC</b>
+      <b style="font-size: 130%;">Canadian Natural Resources International (UK) Limited</b>
       <span style="float:right; color:#7a7a7a;">June 2016 - July 2018</span>
     </p>
-    Machine Learning Scientist<br>
+    Intern Student<br>
     <p style="color:#7a7a7a">
-      Created, implemented and deployed machine learning algorithms to solve problems in time series, vision and geology, improving state of the art for several tasks &bull; Research on deep generative models with a focus on learning interpretable representations
+      Performed and presented numerical simulation analysis to development team helped on decisions worth millions
     </p>
   </div>
 
 </div>
 
-
-<!-- Gurobi -->
-<div style="display:flex;">
-
-  <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}/imgs/resume-icons/gurobi.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
-  </div>
-
-  <div style="flex:4;">
-    <p style="margin:0px">
-      <b style="font-size: 130%;">Gurobi Optimization</b>
-      <span style="float:right; color:#7a7a7a;">June 2015 - Aug 2015</span>
-    </p>
-    Software Engineering Intern<br>
-    <p style="color:#7a7a7a">
-      Researched, formulated and solved integer optimization models for a wide area of industry applications including energy, telecom and medicine
-    </p>
-  </div>
-
-</div>
-
-
-<!-- DTU -->
-<div style="display:flex;">
-
-  <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}/imgs/resume-icons/dtu.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
-  </div>
-
-  <div style="flex:4;">
-    <p style="margin:0px">
-      <b style="font-size: 130%;">DTU Compute</b>
-      <span style="float:right; color:#7a7a7a;">June 2013 - Sep 2013</span>
-    </p>
-    Research Intern<br>
-    <p style="color:#7a7a7a">
-      Research on sparse dynamics for PDEs with Allan Engsig-Karup
-    </p>
-  </div>
-
-</div>
 
 
 ## Awards 🌟
