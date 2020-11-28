@@ -5,71 +5,6 @@ layout: page
 
 For more details, you can download the pdf version of my resume [{% include icon.html id="pdf" title="pdf" %}here](https://github.com/lxasqjc/lxasqjc.github.io/raw/master/CV_CHEN_JIN.pdf) (updated Nov 2020).
 
-## Education 🎓
-
-<!-- PhD -->
-<div style="display:flex;">
-
-  <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}/imgs/resume-icons/HWU.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
-  </div>
-
-  <div style="flex:4;">
-    <p style="margin:0px">
-      <b style="font-size: 130%;">Heriot-Watt University</b>
-      <span style="float:right; color:#7a7a7a;">2018 - 2021</span>
-    </p>
-    PhD Computational Geoscience<br>
-    <p style="color:#7a7a7a">
-      
-    </p>
-  </div>
-
-</div>
-
-
-<!-- MS -->
-<div style="display:flex;">
-
-  <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}/imgs/resume-icons/HWU.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
-  </div>
-
-  <div style="flex:4;">
-    <p style="margin:0px">
-      <b style="font-size: 130%;">Heriot-Watt University</b>
-      <span style="float:right; color:#7a7a7a;">2014 - 2016</span>
-    </p>
-    MSc Petroleum Engineering<br>
-    <p style="color:#7a7a7a">
-      
-    </p>
-  </div>
-
-</div>
-
-
-<!-- BSc -->
-<div style="display:flex;">
-
-  <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}/imgs/resume-icons/CUP.jpg" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
-  </div>
-
-  <div style="flex:4;">
-    <p style="margin:0px">
-      <b style="font-size: 130%;">China University of Petroleum</b>
-      <span style="float:right; color:#7a7a7a;">2010 - 2014</span>
-    </p>
-    BSc Oil and Gas Engineering<br>
-    <p style="color:#7a7a7a">
-      
-    </p>
-  </div>
-
-</div>
-
-
 ## Experience 👨‍💼
 
 <!-- University College London-->
@@ -131,6 +66,72 @@ For more details, you can download the pdf version of my resume [{% include icon
   </div>
 
 </div>
+
+## Education 🎓
+
+<!-- PhD -->
+<div style="display:flex;">
+
+  <div style="flex:0.5; padding-right:5%">
+    <img src="{{ site.url }}/imgs/resume-icons/HWU.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:4;">
+    <p style="margin:0px">
+      <b style="font-size: 130%;">Heriot-Watt University</b>
+      <span style="float:right; color:#7a7a7a;">2013 - 2017</span>
+    </p>
+    PhD Computational Geoscience<br>
+    <p style="color:#7a7a7a">
+      
+    </p>
+  </div>
+
+</div>
+
+
+<!-- MS -->
+<div style="display:flex;">
+
+  <div style="flex:0.5; padding-right:5%">
+    <img src="{{ site.url }}/imgs/resume-icons/HWU.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:4;">
+    <p style="margin:0px">
+      <b style="font-size: 130%;">Heriot-Watt University</b>
+      <span style="float:right; color:#7a7a7a;">2011 - 2012</span>
+    </p>
+    MSc Petroleum Engineering<br>
+    <p style="color:#7a7a7a">
+      
+    </p>
+  </div>
+
+</div>
+
+
+<!-- BSc -->
+<div style="display:flex;">
+
+  <div style="flex:0.5; padding-right:5%">
+    <img src="{{ site.url }}/imgs/resume-icons/CUP.jpg" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:4;">
+    <p style="margin:0px">
+      <b style="font-size: 130%;">China University of Petroleum</b>
+      <span style="float:right; color:#7a7a7a;">2007 - 2011</span>
+    </p>
+    BSc Oil and Gas Engineering<br>
+    <p style="color:#7a7a7a">
+      
+    </p>
+  </div>
+
+</div>
+
+
 
 
 

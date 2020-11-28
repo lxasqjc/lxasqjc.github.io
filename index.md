@@ -28,7 +28,7 @@ layout: page
   </p>
 </div>
 <br style="line-height:10%;">
-Hi! I’m a postdoctoral research fellow in the Centre for [Medical Image Computing (CMIC)](https://www.ucl.ac.uk/medical-image-computing/) at [University College London](https://www.ucl.ac.uk/), working with [Dr Thomy Mertzanidou](http://www0.cs.ucl.ac.uk/staff/T.Mertzanidou/), [Prof. Daniel Alexander](http://www0.cs.ucl.ac.uk/staff/d.alexander/) and [Dr Marnix Jansen](https://iris.ucl.ac.uk/iris/browse/profile?upi=MJJAN31).
+Hi! I’m a postdoctoral research fellow in the [Centre for Medical Image Computing (CMIC)](https://www.ucl.ac.uk/medical-image-computing/) at [University College London](https://www.ucl.ac.uk/), working with [Dr Thomy Mertzanidou](http://www0.cs.ucl.ac.uk/staff/T.Mertzanidou/), [Prof. Daniel Alexander](http://www0.cs.ucl.ac.uk/staff/d.alexander/) and [Dr Marnix Jansen](https://iris.ucl.ac.uk/iris/browse/profile?upi=MJJAN31).
 
 My recent research interests include efficient deep learning based analysis of large images like [ultra-high resolution 2D images](https://arxiv.org/abs/2007.15124), 3D image or video streams in healthcare applications. I’m also interested in the multiple scale and multi modality learning, particularly in medical or geographical image domain. 
 
