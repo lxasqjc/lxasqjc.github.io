@@ -7,35 +7,36 @@ layout: page
   <img src="{{ site.url }}/imgs/profile.jpg" style="display:block; margin-left:auto; margin-right:auto; border-radius:50%; width:75%;">
 
   <p style="text-align:center; margin-top:5%; margin-bottom:0%; font-size: 140%;">
-    Emilien Dupont
+    Chen Jin
   </p>
   <p style="text-align:center; margin:0%;">
-    <a href="https://www.twitter.com/emidup">
+    <a href="https://twitter.com/Jinchen027">
       {% include icon.html id="twitter" title="twitter" %}
     </a>
     &nbsp;
-    <a href="https://github.com/EmilienDupont">
+    <a href="https://github.com/lxasqjc">
       {% include icon.html id="github" title="github" %}
     </a>
     &nbsp;
-    <a href="https://linkedin.com/in/emiliendupont">
+    <a href="https://www.linkedin.com/in/chen-jin-33287593/">
       {% include icon.html id="linkedin" title="linkedin" %}
     </a>
     &nbsp;
-    <a href="https://scholar.google.com/citations?user=IY5WyIEAAAAJ&hl=en">
+    <a href="https://scholar.google.com/404">
       {% include icon.html id="google-scholar" title="scholar" %}
     </a>
   </p>
 </div>
 <br style="line-height:10%;">
-I'm a PhD student in machine learning at [Oxford](http://www.ox.ac.uk/), supervised by [Yee Whye Teh](http://www.stats.ox.ac.uk/~teh/) and [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/) and funded by [Google DeepMind](https://deepmind.com/).
+Hi! I’m a postdoctoral research fellow in the Centre for [Medical Image Computing (CMIC)](https://www.ucl.ac.uk/medical-image-computing/) at [University College London](https://www.ucl.ac.uk/), working with [Dr Thomy Mertzanidou](http://www0.cs.ucl.ac.uk/staff/T.Mertzanidou/), [Prof. Daniel Alexander](http://www0.cs.ucl.ac.uk/staff/d.alexander/) and [Dr Marnix Jansen](https://iris.ucl.ac.uk/iris/browse/profile?upi=MJJAN31).
 
-My recent research interests include invertible neural networks, flow-based models  and [continuous depth neural networks](https://arxiv.org/abs/1904.01681). I'm also interested in the intersection of physics and machine learning and especially how we can build models that combine learning from data with physical principles. I've also worked on [neural rendering](https://arxiv.org/abs/2006.07630) during an internship at [Apple](https://apple.com/) and am very interested in how we can use graphics renderers to make computer vision algorithms more robust and interpretable.
+My recent research interests include efficient deep learning based analysis of large images like [ultra-high resolution 2D images](https://arxiv.org/abs/2007.15124), 3D image or video streams in healthcare applications. I’m also interested in the multiple scale and multi modality learning, particularly in medical or geographical image domain. 
 
-Previously, I've worked on [disentanglement](https://arxiv.org/abs/1804.00104), [inpainting](https://arxiv.org/abs/1802.03065) and its [applications](https://arxiv.org/abs/1810.03728) to various physical problems.
+Previously, I obtained my PhD in the [Institute of GeoEnergy Engineering](https://www.hw.ac.uk/uk/schools/energy-geoscience-infrastructure-society/research/ige.htm/), [Heriot-Watt University](https://www.hw.ac.uk/). I’ve worked on [Digital Rock Analysis](https://core.ac.uk/download/pdf/199293389.pdf), involving machine learning based multi-scale 2D/3D image analysis, segmentation, registration, fusion, reconstruction and fluid flow simulation.
 
-Before my PhD, I worked for 2 years as a machine learning scientist at [STIC](http://www.slb.com/about/rd/technology/stic.aspx) in the Bay Area. I studied [computational maths](https://icme.stanford.edu/) at [Stanford University](https://www.stanford.edu/) and theoretical physics at [Imperial College](https://www.imperial.ac.uk/).
+During PhD, I also worked as a research intern at [Canadian Natural Resources International (UK)](https://www.cnrl.com/) in Aberdeen. I was responsible for building the physical reservoir scale models and investigated fluid flow behaviours through simulation, and with the fortune to present the team and helped decisions worth millions.
+
 
 ### Contact
 
-My email is _emilien.dupont (at) stats.ox.ac.uk_
+My email is _chen.jin (at) ucl.ac.uk_
