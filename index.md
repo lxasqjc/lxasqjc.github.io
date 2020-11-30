@@ -32,7 +32,7 @@ Hi! I’m a postdoctoral research fellow in the [Centre for Medical Image Comput
 
 My recent research interests include efficient deep learning based analysis of large images like [ultra-high resolution 2D images](https://arxiv.org/abs/2007.15124), 3D image or video streams in healthcare applications. I’m also interested in the multiple scale and multi modality learning, particularly in medical or geographical image domain. 
 
-Previously, I obtained my PhD in the [Institute of GeoEnergy Engineering](https://www.hw.ac.uk/uk/schools/energy-geoscience-infrastructure-society/research/ige.htm/), [Heriot-Watt University](https://www.hw.ac.uk/). I’ve worked on [Digital Rock Analysis](https://core.ac.uk/download/pdf/199293389.pdf), involving machine learning based multi-scale 2D/3D image analysis, segmentation, registration, fusion, reconstruction and fluid flow simulation.
+Previously, I obtained my PhD in the [Institute of GeoEnergy Engineering](https://www.hw.ac.uk/uk/schools/energy-geoscience-infrastructure-society/research/ige.htm/), [Heriot-Watt University](https://www.hw.ac.uk/). My thesis was about [Developing a Hierarchical Digital Rock Analysis Workflow](https://core.ac.uk/download/pdf/199293389.pdf), involving machine learning based multi-scale 2D/3D image analysis, segmentation, registration, fusion, reconstruction and fluid flow simulation.
 
 During PhD, I also worked as a research intern at [Canadian Natural Resources International (UK)](https://www.cnrl.com/) in Aberdeen. I was responsible for building the physical reservoir scale models and investigated fluid flow behaviours through simulation, and with the fortune to present the team and helped decisions worth millions.
 
