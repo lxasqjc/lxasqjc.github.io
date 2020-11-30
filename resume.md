@@ -188,15 +188,23 @@ For more details, you can download the pdf version of my resume [{% include icon
   <li>
     <b> PhD co-supervisor</b>
     <span style="float:right; color:#7a7a7a;">UCL, 2019-Present</span> <br>
-    <i>Student Olga Fourkioti, who is working on Multiple-instance learning (MIL) for Classification of Cancerous Histology Image<i>
+    <li>
+    Student Olga Fourkioti, who is working on Multiple-instance learning (MIL) for Classification of Cancerous Histology Image
+    </li>
   </li>
 
   <li>
     <b> MSc Projects co-supervisor</b>
-    <i>Student Kristiana Grigoriadis, who was working on Automatic Segmentation of Prostate Cancer Histopathology using Deep Learning, UCL, 2020<i>
-    <i>Student Sebastian Ramirez Vallone, who was working on TOTAL sponsered project on Automatic Shale Rock Characterisation by Machine Learning based image analysis methods, Heriot-Watt University, 2016<i>
+    <li>
+    Student Kristiana Grigoriadis, who was working on Automatic Segmentation of Prostate Cancer Histopathology using Deep Learning, UCL, 2020
+    </li>
+    <li>
+    Student Sebastian Ramirez Vallone, who was working on TOTAL sponsered project on Automatic Shale Rock Characterisation by Machine Learning based image analysis methods, Heriot-Watt University, 2016
+    </li>
   </li>
+  
 </ul>
+
 
 ## Skills 💻
 
