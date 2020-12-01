@@ -17,12 +17,11 @@ layout: page
 
     <a href="https://arxiv.org/pdf/2007.15124.pdf">
       PDF | <a href="https://arxiv.org/abs/2007.15124">
-      Preprint Link | <a href="https://link.springer.com/chapter/10.1007/978-3-030-59722-1_54">
-      MICCAI Link | <a href="https://github.com/lxasqjc/Foveation-Segmentation">
+      Preprint Link | <a href="https://github.com/lxasqjc/Foveation-Segmentation">
       Code
     </a><br>
 
-    <b style="color:#2ca25f">Preprint, a shorter version published in MICCAI, 2020</a> 
+    <b style="color:#2ca25f">Preprint, a shorter version published in</b> <a href="https://link.springer.com/chapter/10.1007/978-3-030-59722-1_54"> MICCAI, 2020</a></b>
   </div>
 </div>
 
