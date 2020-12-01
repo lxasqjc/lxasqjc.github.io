@@ -21,7 +21,7 @@ layout: page
       Code
     </a><br>
 
-    <b style="color:#2ca25f">Preprint, a shorter version published in [MICCAI, 2020](https://link.springer.com/chapter/10.1007/978-3-030-59722-1_54)</b>
+    <b style="color:#2ca25f">Preprint, a shorter version published in</b> <a href="https://link.springer.com/chapter/10.1007/978-3-030-59722-1_54"> MICCAI, 2020</a> 
   </div>
 </div>
 
