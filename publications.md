@@ -10,9 +10,9 @@ layout: page
   </div>
 
   <div style="flex:1.5;">
-    <b style="font-size: 110%;">Foveation for Segmentation of Ultra-High Resolution Images</b><br>
+    <b style="font-size: 100%;">Foveation for Segmentation of Ultra-High Resolution Images</b><br>
 
-    <i style="font-size: 60%;"><b>Chen Jin</b>*, Ryutaro Tanno*, Moucheng Xu, Thomy Mertzanidou, Daniel C. Alexander</i><br>
+    <i style="font-size: 70%;"><b>Chen Jin</b>*, Ryutaro Tanno*, Moucheng Xu, Thomy Mertzanidou, Daniel C. Alexander</i><br>
 
     <a href="https://arxiv.org/pdf/2007.15124.pdf">
       PDF</a> | <a href="https://arxiv.org/abs/2007.15124">
@@ -33,9 +33,9 @@ layout: page
   </div>
 
   <div style="flex:1.5;">
-    <b style="font-size: 110%;">Disentangling Human Error from the Ground Truth in Segmentation of Medical Images</b><br>
+    <b style="font-size: 100%;">Disentangling Human Error from the Ground Truth in Segmentation of Medical Images</b><br>
 
-    <i style="font-size: 60%;">Le Zhang*, Ryutaro Tanno*, Mou-Cheng Xu, <b>Chen Jin</b>, Joseph Jacob, Olga Ciccarelli, Frederik Barkhof, Daniel C. Alexander</i><br>
+    <i style="font-size: 70%;">Le Zhang*, Ryutaro Tanno*, Mou-Cheng Xu, <b>Chen Jin</b>, Joseph Jacob, Olga Ciccarelli, Frederik Barkhof, Daniel C. Alexander</i><br>
 
     <a href="https://proceedings.neurips.cc/paper/2020/file/b5d17ed2b502da15aa727af0d51508d6-Paper.pdf">
       PDF</a> | <a href="https://arxiv.org/abs/2007.15963">
