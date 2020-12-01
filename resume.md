@@ -57,7 +57,7 @@ For more details, you can download the pdf version of my resume [{% include icon
   <div style="flex:4;">
     <p style="margin:0px">
       <b style="font-size: 130%;">Canadian Natural Resources International (UK) Limited</b>
-      <span style="float:right; color:#7a7a7a;">June 2016 - July 2018</span>
+      <span style="float:right; color:#7a7a7a;">Aug 2013 - Dec 2014</span>
     </p>
     Intern Student<br>
     <p style="color:#7a7a7a">
@@ -66,6 +66,142 @@ For more details, you can download the pdf version of my resume [{% include icon
   </div>
 
 </div>
+
+
+## Skills 💻
+
+<ul>
+  <li>
+    Programming
+    <ul>
+      <li>
+        <i>Experienced:</i> Python, Matlab, C++
+      </li>
+      <li>
+        <i>Familiar:</i> Javascript, R, Batch
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    Frameworks
+    <ul>
+      <li>
+        <i>Deep Learning:</i> Pytorch, Tensorflow, Keras
+      </li>
+      <li>
+        <i>Visualization:</i> ImageJ (FIJI), Avizo, ParaView, Cinema4D
+      </li>
+      <li>
+        <i>Other:</i> Jupyter, Linux, Cloud/Cluster
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    Languages: Fluenet in both Chinese and English
+  </li>
+</ul>
+
+
+## Projects 🌱
+
+<ul>
+  <li>
+    <b>Histology-MRI mapping and Medical image analysis (Python/ Pytorch / R)</b><br>
+    <ul>
+      <li>
+        <i>Delivered:</i> 3 Conference and 1 Journal articles, 2019-2020
+      </li>
+      <li>
+        Innovated a novel “learnable data loader” for optimal mega-pixel histology image segmentation (Pytorch).
+      </li>
+      <li>
+        Developed a deformed segmentation method for efficient analysis of large but imbalanced 2D/3D medical images.
+      </li>
+      <li>
+        Deployed R based label fusion method STAPLE to assist a deep learning-based inter-reader variability project.
+      </li>
+      <li>
+        Assisted 3D reconstruction of tumor cells and image analysis from stacked immunofluorescence images.
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    <b>Multiscale image analysis and reconstruction workflow (Python/ C++) </b><br>
+    <ul>
+      <li>
+        <i>Delivered:</i> PhD Thesis, 2017
+      </li>
+      <li>
+        Owned a novel multi-scale/moda image fusion and reconstruction workflow for digital rock analysis.
+      </li>
+      <li>
+        Developed codes for rock image analysis and pattern recognition of landmark (thin layer) by machine learning.
+      </li>
+      <li>
+        Calibrate low-quality CT and high-quality SEM images, and conduct image registration to integrate multiscale data.
+      </li>
+      <li>
+        Segmented particles (6E+5 per image) and visualise cross-scale structure-correlated statistics by sliding window.
+      </li>
+      <li>
+        3D pore-grain image reconstruction conditional to neighbouring “patch” and correlative statistical characterisation.
+      </li>
+      <li>
+        Automated the workflow in parallel HPC scripts delivered on broken record size of rock image (1.5E+12 voxels).
+      </li>
+    </ul>
+  </li>
+  
+  <li>
+    <b>Weak supervised deep neural model for segmentation (Matlab) </b><br>
+    <ul>
+      <li>
+        <i>Delivered:</i> A Chapter of PhD Thesis, Partial work presented at Conference, 2016
+      </li>
+      <li>
+        Innovated a weak supervised iterative convolutional net (embedded with filter banks, AdaBoost and auto-context) that auto-improves segmented connectivity of thin linear pattern with learning transferred from synthetic scratch.
+      </li>
+      <li>
+        Researched the nature impact of the convolutional feature and training image on segmented connectivity from noisy images, measured qualitatively by activation map and quantitatively by confusion matrix over various filter banks.
+      </li>
+    </ul>
+  </li>
+  
+  <li>
+    <b>Uncertainty study of digital rock analysis in the parallel project (C++/ imageJ) </b><br>
+    <ul>
+      <li>
+        <i>Delivered:</i> Presented at conference, 2017
+      </li>
+      <li>
+        Presented to industry the segmentation uncertainty improved by machine learning and visualise fluid simulation.
+      </li>
+      <li>
+        Collaborated with visiting scholar on feature selection framework combine super-pixel and genetic algorithm.
+      </li>
+    </ul>
+  </li>
+  
+  <li>
+    <b>Automated machine-learning for rock phase classification (JavaScript) </b><br>
+    <ul>
+      <li>
+        <i>Delivered:</i> Published at conference, 2014
+      </li>
+      <li>
+        Implement an auto-sampling and labeling script in ImageJ by local mean and SD.
+      </li>
+      <li>
+        Developed an automated patch-based rock pattern classification procedure based on random forest.
+      </li>
+    </ul>
+  </li>
+
+</ul>
+
 
 ## Education 🎓
 
@@ -131,56 +267,6 @@ For more details, you can download the pdf version of my resume [{% include icon
 
 </div>
 
-## Projects 🌱
-
-<ul>
-  <li>
-    <b>Histology-MRI mapping and Medical image analysis (Python/ Pytorch / R)</b><br>
-    <span style="float:right; color:#7a7a7a;">2019-2020</span> <br>
-    <ul>
-      <li>
-        <i>Delivered:</i> 3 Conference and 1 Journal articles
-      </li>
-      <li>
-        Innovated a novel “learnable data loader” for optimal mega-pixel histology image segmentation (Pytorch).
-      </li>
-      <li>
-        Developed a deformed segmentation method for efficient analysis of large but imbalanced 2D/3D medical images.
-      </li>
-      <li>
-        Deployed R based label fusion method STAPLE to assist a deep learning-based inter-reader variability project.
-      </li>
-      <li>
-        Assisted 3D reconstruction of tumor cells and image analysis from stacked immunofluorescence images.
-      </li>
-    </ul>
-  </li>
-
-  <li>
-    <b>Multiscale image analysis and reconstruction workflow (Python/ C++) </b><br>
-    <span style="float:right; color:#7a7a7a;">2019-2020</span> <br>
-    <ul>
-      <li>
-        <i>Delivered:</i> PhD Thesis, 2017
-      </li>
-      <li>
-        Innovated a novel “learnable data loader” for optimal mega-pixel histology image segmentation (Pytorch).
-      </li>
-      <li>
-        Developed a deformed segmentation method for efficient analysis of large but imbalanced 2D/3D medical images.
-      </li>
-      <li>
-        Deployed R based label fusion method STAPLE to assist a deep learning-based inter-reader variability project.
-      </li>
-      <li>
-        Assisted 3D reconstruction of tumor cells and image analysis from stacked immunofluorescence images.
-      </li>
-    </ul>
-  </li>
-
-</ul>
-
-
 
 ## Student Supervision 👨‍🏫
 
@@ -205,41 +291,6 @@ For more details, you can download the pdf version of my resume [{% include icon
   
 </ul>
 
-
-## Skills 💻
-
-<ul>
-  <li>
-    Programming
-    <ul>
-      <li>
-        <i>Experienced:</i> Python, Matlab, C++
-      </li>
-      <li>
-        <i>Familiar:</i> Javascript, R, Batch
-      </li>
-    </ul>
-  </li>
-
-  <li>
-    Frameworks
-    <ul>
-      <li>
-        <i>Deep Learning:</i> Pytorch, Tensorflow, Keras
-      </li>
-      <li>
-        <i>Visualization:</i> ImageJ (FIJI), Avizo, ParaView, Cinema4D
-      </li>
-      <li>
-        <i>Other:</i> Jupyter, Linux, Cloud/Cluster
-      </li>
-    </ul>
-  </li>
-
-  <li>
-    Languages: Fluenet in both Chinese and English
-  </li>
-</ul>
 
 ## Awards 🌟
 
