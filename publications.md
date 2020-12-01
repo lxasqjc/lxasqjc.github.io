@@ -6,11 +6,11 @@ layout: page
 
 <div style="display:flex;">
 
-  <div style="flex:2; padding-right:5%">
+  <div style="flex:1; padding-right:5%">
     <img src="{{ site.url }}/imgs/paper-icons/foveated_expection.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
-  <div style="flex:1.5;">
+  <div style="flex:2.5;">
     <b style="font-size: 130%;">Foveation for Segmentation of Ultra-High Resolution Images</b><br>
 
     <i><b>Chen Jin</b>*, Ryutaro Tanno*, Moucheng Xu, Thomy Mertzanidou, Daniel C. Alexander</i><br>
@@ -30,11 +30,11 @@ layout: page
 
 <div style="display:flex;">
 
-  <div style="flex:2; padding-right:5%">
+  <div style="flex:1; padding-right:5%">
     <img src="{{ site.url }}/imgs/paper-icons/NIPS_disentangling.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
-  <div style="flex:1.5;">
+  <div style="flex:2.5;">
     <b style="font-size: 130%;">Disentangling Human Error from the Ground Truth in Segmentation of Medical Images</b><br>
 
     <i>Le Zhang*, Ryutaro Tanno*, Mou-Cheng Xu, <b>Chen Jin</b>, Joseph Jacob, Olga Ciccarelli, Frederik Barkhof, Daniel C. Alexander</i><br>
@@ -52,49 +52,3 @@ layout: page
 
 &nbsp;
 
-<div style="display:flex;">
-
-  <div style="flex:1; padding-right:5%">
-    <img src="{{ site.url }}/imgs/paper-icons/jointvae.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
-  </div>
-
-  <div style="flex:2.5;">
-    <b style="font-size: 130%;">Learning Disentangled Joint Continuous and Discrete Representations</b><br>
-
-    <i><b>E. Dupont</b></i><br>
-
-    <a href="https://arxiv.org/abs/1804.00104">
-      arxiv.org/abs/1804.00104
-    </a><br>
-
-    <i class="fa fa-github"></i> <a href="https://github.com/Schlumberger/joint-vae">
-      Github repo
-    </a><br>
-
-    <b style="color:#2ca25f">NeurIPS 2018</b>
-  </div>
-</div>
-
-&nbsp;
-
-
-<div style="display:flex;">
-
-  <div style="flex:1; padding-right:5%">
-    <img src="{{ site.url }}/imgs/paper-icons/geology.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
-  </div>
-
-  <div style="flex:2.5;">
-    <b style="font-size: 130%;">Generating Realistic Geology Conditioned on Physical Measurements with Generative Adversarial Networks</b><br>
-
-    <i><b>E. Dupont</b>, T. Zhang, P. Tilke, L. Liang, W. Bailey</i><br>
-
-    <a href="https://arxiv.org/abs/1802.03065">
-      arxiv.org/abs/1802.03065
-    </a><br>
-
-    <b style="color:#666a6b">ICML 2018 TADGM Workshop</b>
-  </div>
-</div>
-
-&nbsp;
