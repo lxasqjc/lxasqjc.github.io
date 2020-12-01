@@ -6,24 +6,18 @@ layout: page
 
 <div style="display:flex;">
 
-  <div style="flex:1; padding-right:5%">
+  <div style="flex:2; padding-right:5%">
     <img src="{{ site.url }}/imgs/paper-icons/foveated_expection.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
-  <div style="flex:2.5;">
+  <div style="flex:1.5;">
     <b style="font-size: 130%;">Foveation for Segmentation of Ultra-High Resolution Images</b><br>
 
     <i><b>Chen Jin</b>*, Ryutaro Tanno*, Moucheng Xu, Thomy Mertzanidou, Daniel C. Alexander</i><br>
 
     <a href="https://arxiv.org/pdf/2007.15124.pdf">
-      PDF
-    </a><br>
-    
-    <i class="fa fa-github"></i> <a href="https://arxiv.org/abs/2007.15124">
-      Link
-    </a><br>
-
-    <i class="fa fa-github"></i> <a href="https://github.com/lxasqjc/Foveation-Segmentation">
+      PDF | <a href="https://arxiv.org/abs/2007.15124">
+      Link | <a href="https://github.com/lxasqjc/Foveation-Segmentation">
       Code
     </a><br>
 
