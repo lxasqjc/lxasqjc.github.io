@@ -3,7 +3,6 @@ title: Publications
 layout: page
 ---
 
-
 <div style="display:flex;">
 
   <div style="flex:1; padding-right:5%">
@@ -21,7 +20,7 @@ layout: page
       Code
     </a><br>
 
-    <b style="color:#2ca25f">Preprint, a shorter version published in <a href="https://link.springer.com/chapter/10.1007/978-3-030-59722-1_54">MICCAI, 2020</a></b>
+    <b style="color:#2ca25f">Preprint, a shorter version published in <a href="https://link.springer.com/chapter/10.1007/978-3-030-59722-1_54">MICCAI, 2020</a><br></b>
   </div>
 </div>
 
