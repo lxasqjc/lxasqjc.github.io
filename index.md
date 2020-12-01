@@ -22,7 +22,7 @@ layout: page
       {% include icon.html id="linkedin" title="linkedin" %}
     </a>
     &nbsp;
-    <a href="https://scholar.google.com/404">
+    <a href="https://scholar.google.co.uk/citations?hl=en&user=4on9TiAAAAAJ">
       {% include icon.html id="google-scholar" title="scholar" %}
     </a>
   </p>
