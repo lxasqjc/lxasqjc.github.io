@@ -15,12 +15,11 @@ layout: page
     <i><b>Chen Jin</b>*, Ryutaro Tanno*, Moucheng Xu, Thomy Mertzanidou, Daniel C. Alexander</i><br>
 
     <a href="https://arxiv.org/pdf/2007.15124.pdf">
-      PDF | <a href="https://arxiv.org/abs/2007.15124">
-      Preprint Link | <a href="https://github.com/lxasqjc/Foveation-Segmentation">
-      Code
-    </a><br>
+      PDF</a> | <a href="https://arxiv.org/abs/2007.15124">
+      Preprint Link</a> | <a href="https://github.com/lxasqjc/Foveation-Segmentation">
+      Code</a><br>
 
-    <b style="color:#2ca25f">Preprint, a shorter version published in <a href="https://link.springer.com/chapter/10.1007/978-3-030-59722-1_54">MICCAI, 2020</a><br></b>
+    <b style="color:#2ca25f">Preprint, a shorter version published in <a href="https://link.springer.com/chapter/10.1007/978-3-030-59722-1_54">MICCAI, 2020</a></b>
   </div>
 </div>
 
