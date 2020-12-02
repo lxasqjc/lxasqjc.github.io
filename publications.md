@@ -47,6 +47,9 @@ layout: page
   </div>
 </div>
 
+&nbsp;
+
+
 
 <div style="display:flex;">
 
@@ -71,7 +74,6 @@ layout: page
 
 &nbsp;
 
-&nbsp;
 
 <div style="display:flex;">
 
@@ -147,16 +149,13 @@ layout: page
   </div>
 
   <div style="flex:1.5;">
-    <b style="font-size: 80%;">An Automated Machine-Learning Procedure For Robust Classification of SEM Images of Cross-Laminated Sandstones For Digital Rock Analysis</b><br>
+    <b style="font-size: 60%;">An Automated Machine-Learning Procedure For Robust Classification of SEM Images of Cross-Laminated Sandstones For Digital Rock Analysis</b><br>
 
     <i style="font-size: 70%;"><b>Jin, C.</b> and Ma, J.</i><br>
 
     <a href="http://jgmaas.com/SCA/2014/SCA2014-034.pdf">
       PDF</a> | <a href="https://researchportal.hw.ac.uk/en/publications/an-automated-machine-learning-procedure-for-robust-classification">
-      Link</a><br>
-
-
-    <b style="color:#2ca25f">SCA 2014</b>
+      Link</a> <b style="color:#2ca25f">SCA 2014</b><br>
   </div>
 </div>
 
