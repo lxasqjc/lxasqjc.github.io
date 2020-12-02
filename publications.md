@@ -10,7 +10,7 @@ layout: page
   </div>
 
   <div style="flex:1.5;">
-    <b style="font-size: 100%;">Foveation for Segmentation of Ultra-High Resolution Images</b><br>
+    <b style="font-size: 110%;">Foveation for Segmentation of Ultra-High Resolution Images</b><br>
 
     <i style="font-size: 70%;"><b>Jin, C.</b>*, Tanno, R.*, Xu, M., Mertzanidou, T. and Alexander, D.C.</i><br>
 
@@ -33,7 +33,7 @@ layout: page
   </div>
 
   <div style="flex:1.5;">
-    <b style="font-size: 100%;">Disentangling Human Error from the Ground Truth in Segmentation of Medical Images</b><br>
+    <b style="font-size: 95%;">Disentangling Human Error from the Ground Truth in Segmentation of Medical Images</b><br>
 
     <i style="font-size: 70%;">Zhang, L.*, Tanno, R.*, Bronik, K., <b>Jin, C.</b>, Nachev, P., Barkhof, F., Ciccarelli, O. and Alexander, D.C.</i><br>
 
@@ -55,7 +55,7 @@ layout: page
   </div>
 
   <div style="flex:1.5;">
-    <b style="font-size: 100%;">Connectivity-enhancing fracture segmentation from X-ray Tomography (XRT) images of reservoir core samples by machine learning-based method</b><br>
+    <b style="font-size: 90%;">Connectivity-enhancing fracture segmentation from X-ray Tomography (XRT) images of reservoir core samples by machine learning-based method</b><br>
 
     <i style="font-size: 70%;"><b>Jin, C.</b> and Ma, J.</i><br>
 
@@ -125,7 +125,7 @@ layout: page
   </div>
 
   <div style="flex:1.5;">
-    <b style="font-size: 100%;">Advanced fracture segmentation from X-ray tomography (XRT) images of reservoir core samples by machine learning-based centerline extraction</b><br>
+    <b style="font-size: 90%;">Advanced fracture segmentation from X-ray tomography (XRT) images of reservoir core samples by machine learning-based centerline extraction</b><br>
 
     <i style="font-size: 70%;"><b>Jin, C.</b> and Ma, J.</i><br>
 
@@ -147,7 +147,7 @@ layout: page
   </div>
 
   <div style="flex:1.5;">
-    <b style="font-size: 90%;">An Automated Machine-Learning Procedure For Robust Classification of SEM Images of Cross-Laminated Sandstones For Digital Rock Analysis</b><br>
+    <b style="font-size: 80%;">An Automated Machine-Learning Procedure For Robust Classification of SEM Images of Cross-Laminated Sandstones For Digital Rock Analysis</b><br>
 
     <i style="font-size: 70%;"><b>Jin, C.</b> and Ma, J.</i><br>
 
