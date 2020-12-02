@@ -123,7 +123,7 @@ layout: page
 <div style="display:flex;">
 
   <div style="flex:2; padding-right:5%">
-    <img src="{{ site.url }}/imgs/paper-icons/EAGE_SCA_2016.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+    <img src="{{ site.url }}/imgs/paper-icons/EAGE_SCA_2016_1.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
   <div style="flex:1.5;">
