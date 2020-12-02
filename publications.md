@@ -50,6 +50,28 @@ layout: page
 &nbsp;
 
 
+<div style="display:flex;">
+
+  <div style="flex:2; padding-right:5%">
+    <img src="{{ site.url }}/imgs/paper-icons/Chen_Phd.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:1.5;">
+    <b style="font-size: 90%;">Developing a Hierarchical Digital Core Analysis Workflow for Petro-Physical Characterisation of Cross-laminated Reservoir Rocks at Pore Scales</b><br>
+
+    <i style="font-size: 70%;"><b>Jin, C.</b></i><br>
+
+    <a href="https://core.ac.uk/download/pdf/199293389.pdf">
+      PDF</a> | <a href="https://www.ros.hw.ac.uk/handle/10399/3981">
+      Link</a><br>
+
+
+    <b style="color:#2ca25f">Ph.D. thesis 2017</b>
+  </div>
+</div>
+
+&nbsp;
+
 
 <div style="display:flex;">
 
@@ -71,29 +93,6 @@ layout: page
   </div>
 </div>
 
-
-&nbsp;
-
-
-<div style="display:flex;">
-
-  <div style="flex:2; padding-right:5%">
-    <img src="{{ site.url }}/imgs/paper-icons/Chen_Phd.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
-  </div>
-
-  <div style="flex:1.5;">
-    <b style="font-size: 90%;">Developing a Hierarchical Digital Core Analysis Workflow for Petro-Physical Characterisation of Cross-laminated Reservoir Rocks at Pore Scales</b><br>
-
-    <i style="font-size: 70%;"><b>Jin, C.</b></i><br>
-
-    <a href="https://core.ac.uk/download/pdf/199293389.pdf">
-      PDF</a> | <a href="https://www.ros.hw.ac.uk/handle/10399/3981">
-      Link</a><br>
-
-
-    <b style="color:#2ca25f">Ph.D. thesis 2017</b>
-  </div>
-</div>
 
 &nbsp;
 
