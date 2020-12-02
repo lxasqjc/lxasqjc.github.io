@@ -159,7 +159,7 @@ For more details, you can download the pdf version of my resume [{% include icon
     <b>Weak supervised deep neural model for segmentation (Matlab) </b><br>
     <ul>
       <li>
-        <i>Delivered:</i> A Chapter of PhD Thesis, Partial work presented at Conference, 2016
+        <i>Delivered:</i> A Chapter of PhD Thesis, Presented (2016)/ Poster (2018) at conferences
       </li>
       <li>
         Innovated a weak supervised iterative convolutional net (embedded with filter banks, AdaBoost and auto-context) that auto-improves segmented connectivity of thin linear pattern with learning transferred from synthetic scratch.
@@ -282,11 +282,13 @@ For more details, you can download the pdf version of my resume [{% include icon
   <li>
     <b> MSc Projects co-supervisor</b>
     <li>
-    Student Kristiana Grigoriadis, who was working on Automatic Segmentation of Prostate Cancer Histopathology using Deep Learning, UCL, 2020
+    Student Kristiana Grigoriadis, who was working on Automatic Segmentation of Prostate Cancer Histopathology using Deep Learning 
     </li>
+    <span style="float:right; color:#7a7a7a;">UCL, 2020</span> <br>
     <li>
-    Student Sebastian Ramirez Vallone, who was working on TOTAL sponsered project on Automatic Shale Rock Characterisation by Machine Learning based image analysis methods, Heriot-Watt University, 2016
+    Student Sebastian Ramirez Vallone, who was working on TOTAL sponsered project on Automatic Shale Rock Characterisation by Machine Learning based image analysis methods 
     </li>
+    <span style="float:right; color:#7a7a7a;">Heriot-Watt University, 2016</span> <br>
   </li>
   
 </ul>
