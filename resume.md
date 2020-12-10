@@ -111,13 +111,13 @@ For more details, you can download the pdf version of my resume [{% include icon
     <b>Histology-MRI mapping and Medical image analysis (Python/ Pytorch / R)</b><br>
     <ul>
       <li>
-        <i>Delivered:</i> 3 Conference and 1 Journal articles, 2019-2020
+        <i>Delivered:</i> 3 Conference and 1 Journal articles (Preprint), 2019-2020
       </li>
       <li>
-        Innovated a novel “learnable data loader” for optimal mega-pixel histology image segmentation.
+        Innovated a novel “learnable data loader” which enable joint optimisation of patch sampling size-resolution trade-off and mega-pixel histology image segmentation (Pytorch).
       </li>
       <li>
-        Developed a deformed segmentation method for efficient analysis of large but imbalanced 2D/3D medical images.
+        Developed a deformed segmentation method for efficient training and inference of large volume but imbalanced 2D/3D medical images.
       </li>
       <li>
         Deployed R based label fusion method STAPLE to assist a deep learning-based inter-reader variability project.

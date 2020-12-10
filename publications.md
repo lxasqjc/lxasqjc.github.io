@@ -53,7 +53,7 @@ layout: page
 <div style="display:flex;">
 
   <div style="flex:2; padding-right:5%">
-    <img src="{{ site.url }}/imgs/paper-icons/Chen_Phd.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+    <img src="{{ site.url }}/imgs/paper-icons/Chen_Phd_2.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
   <div style="flex:1.5;">
@@ -100,7 +100,7 @@ layout: page
 <div style="display:flex;">
 
   <div style="flex:2; padding-right:5%">
-    <img src="{{ site.url }}/imgs/paper-icons/InterPore_2017.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+    <img src="{{ site.url }}/imgs/paper-icons/InterPore_2017_2.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
   <div style="flex:1.5;">
